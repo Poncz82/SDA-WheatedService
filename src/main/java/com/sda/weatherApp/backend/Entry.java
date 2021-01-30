@@ -22,8 +22,7 @@ public class Entry {
    private String country;
    private String region;
 
-   public Entry() {
-   }
+
 
    public Entry(Float latitude, Float longitude, String city, String country) {
       this.latitude = latitude;
